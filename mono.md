@@ -57,6 +57,7 @@ Ator
 Sim - 0020753/RS
 
 ## Mini Bio
+<span class="minha-classe">texto estilizado</span> continua normal.
 
 Mono Künstler, um ator apaixonado por explorar diferentes formas de arte, desde o teatro musical até a TV e o cinema. Minha formação começou no Musica Cena (2020-2024), onde estudei canto, dança e atuação, e se expandiu para a Escola de Interpretação Machado Nascimento, com foco em projetos audiovisuais. Entre 2023 e 2024, viajei com a Companhia de Teatro Luz e Cena pelo Rio Grande do Sul todo, vivendo experiências únicas no palco. Gosto de me desafiar e trazer espontaneidade e autenticidade para cada papel que interpreto, sempre buscando criar uma conexão verdadeira com o público.
 
